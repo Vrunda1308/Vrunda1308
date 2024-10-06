@@ -1,3 +1,5 @@
+![logo](https://github.com/Vrunda1308/Vrunda1308/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vrunda Desai</h1>
 <h3 align="center">A passionate software engineer.</h3>
 
